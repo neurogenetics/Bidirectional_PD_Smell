@@ -2,6 +2,8 @@
 
 `LNG ❤️ Open Science 😍`
 
+[![DOI](https://zenodo.org/badge/816079621.svg)](https://zenodo.org/doi/10.5281/zenodo.13363399)
+
  - **Project:** Bidirectional relationship between olfaction and Parkinson’s disease 
  - **Author(s):** Jonggeol Jeffrey K., Sara Bandres C., Karl H., 23andMe Research Team, Cornelis B., Alastair N.
  - **Date Last Updated:** Aug 2024
